@@ -36,7 +36,7 @@
     "@webcomponents/url": "~0.7.1",
     "acorn": "^6.0.0",
     "ajv": "^6.9.1",
-    "async": "~0.2.6",
+    "async": "~2.6.4",
     "babel-eslint": "^9.0.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-array-includes": "^2.0.3",
